@@ -1,66 +1,83 @@
 # 🌦 Weather Intelligence Dashboard
 
-## Overview
-The **Weather Intelligence Dashboard** is an interactive analytics dashboard designed to monitor **weather conditions, forecast trends, and environmental indicators** in a single interface.
-
-It provides a quick overview of **temperature forecasts, air quality levels, and atmospheric metrics**, enabling users to easily understand current conditions and short-term environmental patterns.
-
----
-
-## Key Features
-
-- **Real-time Weather Snapshot**
-  - Current temperature and weather condition
-  - Location-based monitoring
-
-- **7-Day Temperature Forecast**
-  - Visual trend analysis of upcoming weather conditions
-
-- **Environmental Metrics**
-  - Humidity  
-  - Wind speed  
-  - Visibility  
-  - Pressure  
-  - UV index  
-  - Precipitation
-
-- **Air Quality Monitoring**
-  - AQI classification
-  - Pollutant indicators (PM10, PM2.5, CO, NO2, SO2, O3)
-
-- **Rain Probability Tracking**
-  - Daily chance of rain to anticipate weather risks
-
-- **Sunrise & Sunset Information**
-  - Daily solar cycle insights
+<p align="left">
+<img src="https://img.shields.io/badge/Project-Data%20Visualization-blue">
+<img src="https://img.shields.io/badge/Tool-Power%20BI-yellow">
+<img src="https://img.shields.io/badge/Focus-Environmental%20Analytics-green">
+<img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
 
 ---
 
-## Tools & Technologies
+## 📌 Project Overview
 
-- **Power BI / Data Visualization Tools**
-- Data Modeling
-- Environmental Data Analysis
-- Interactive Dashboard Design
+The **Weather Intelligence Dashboard** is an interactive analytics dashboard designed to monitor **weather conditions, forecast trends, and air quality indicators** within a single visual interface.
 
----
-
-## Dashboard Preview
-
-<img width="1237" height="694" alt="Screenshot 2026-03-05 130037" src="https://github.com/user-attachments/assets/b0620d51-c764-4e00-a7b3-7a07c143d6ef" />
+The dashboard consolidates multiple environmental metrics to provide **quick situational awareness of atmospheric conditions**, helping users interpret weather patterns and environmental quality at a glance.
 
 ---
 
-## Use Cases
+## 📊 Key Metrics Monitored
+
+| Category | Metrics |
+|--------|--------|
+| Weather Conditions | Temperature, Forecast Trend |
+| Environmental Metrics | Humidity, Wind Speed, Visibility, Pressure |
+| Air Quality Indicators | AQI, PM10, PM2.5, CO, NO2, SO2, O3 |
+| Weather Risk Indicators | Chance of Rain |
+| Solar Cycle | Sunrise & Sunset |
+
+---
+
+## 📈 Dashboard Capabilities
+
+✔ **Real-Time Weather Snapshot**  
+Displays current temperature and weather conditions for the selected location.
+
+✔ **7-Day Forecast Trend**  
+Visualizes short-term temperature patterns to identify upcoming changes.
+
+✔ **Air Quality Monitoring**  
+Tracks AQI levels and pollutant concentrations to evaluate environmental health.
+
+✔ **Environmental Condition Tracking**  
+Includes humidity, wind speed, pressure, visibility, UV index, and precipitation indicators.
+
+✔ **Rain Probability Insights**  
+Provides a daily breakdown of rain probability for weather risk awareness.
+
+✔ **Sunrise & Sunset Tracking**  
+Displays solar cycle timing for daily environmental context.
+
+---
+
+## 🛠 Tools & Technologies
+
+| Tool | Purpose |
+|-----|-----|
+| Power BI | Dashboard Development |
+| Data Visualization | Interactive Analytics |
+| Data Modeling | Environmental Data Structuring |
+| Analytics Design | Insight-Oriented Visualization |
+
+---
+
+## 🖼 Dashboard Preview
+
+<img src="images/dashboard_preview.png" width="900">
+
+---
+
+## 🎯 Use Cases
 
 This dashboard can support:
 
-- **Environmental monitoring**
-- **Weather trend observation**
-- **Quick situational awareness**
-- **Data visualization demonstrations**
-- **Analytics portfolio projects**
+- Environmental monitoring
+- Weather trend observation
+- Quick situational awareness
+- Data visualization demonstrations
+- Analytics portfolio projects
 
 ---
 
-## Project Structure
+## 📂 Project Structure
