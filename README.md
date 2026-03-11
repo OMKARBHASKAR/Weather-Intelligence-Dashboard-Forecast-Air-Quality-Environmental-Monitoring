@@ -64,7 +64,8 @@ Displays solar cycle timing for daily environmental context.
 
 ## 🖼 Dashboard Preview
 
-<img src="images/dashboard_preview.png" width="900">
+< <img width="1237" height="694" alt="Screenshot 2026-03-05 130037" src="https://github.com/user-attachments/assets/b5eb9691-60c2-4fa1-863c-a91ce3a00e71" />
+width="900">
 
 ---
 
