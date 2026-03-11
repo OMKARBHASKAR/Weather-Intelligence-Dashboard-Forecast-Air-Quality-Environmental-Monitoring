@@ -82,3 +82,22 @@ This dashboard can support:
 ---
 
 ## 📂 Project Structure
+
+weather-intelligence-dashboard
+│
+├── dashboard
+│ └── weather_dashboard.pbix
+│
+├── images
+│ └── dashboard_preview.png
+│
+└── README.md
+
+
+---
+
+## 👤 Author
+
+**Omkar Pawar**  
+Aspiring Data Analyst  
+Focused on building **data-driven dashboards and analytical insights**
